@@ -1,0 +1,23 @@
+.jumbotron {
+    background-color:yellow;
+    color:rgb(15, 115, 197);
+    border:5px grey solid;
+  font: 2em Arial,sans-serif;
+  }
+
+  
+  .panel-body {
+    border:5px brown;
+  }
+  .current ,.add {
+    background-color:
+    color:black;
+    font-size:20px;
+  }
+
+
+  .btn {
+    background-color:
+    font-size:30px;
+  }
+  
